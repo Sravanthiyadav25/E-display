@@ -52,4 +52,4 @@ e-display-project/
 
 Contributions are welcome!
 linkedin : https://www.linkedin.com/in/sravanthi-yadav-tech/
-e-mail: sravanthiyadav@gmail.com
+e-mail: sravanthiyadav348@gmail.com
